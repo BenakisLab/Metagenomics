@@ -1,0 +1,2 @@
+2024-03-26 12:47:51	34.1s	big_varahamihira	ERR	e486bb23b9012ecf649061f1eb448bb853e0aad8	6a7bdf29-20cb-48dc-8d80-a67dd29449b6	nextflow run nf-core/mag -profile test,charliecloud --outdir /dss/dsshome1/lxc05/ra52noz2/shotgun_metagenomics/analysis/mouse_stool_2023/assembly/test
+2024-03-27 16:04:06	26.2s	compassionate_wright	ERR	e486bb23b9012ecf649061f1eb448bb853e0aad8	3455d996-3e4c-4b3c-b0c7-bdce517a00df	nextflow run nf-core/mag -profile test,charliecloud --outdir /dss/dsshome1/lxc05/ra52noz2/shotgun_metagenomics/analysis/mouse_stool_2023/assembly/test
